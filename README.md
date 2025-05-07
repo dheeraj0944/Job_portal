@@ -49,3 +49,9 @@ A modern, full-stack Job Portal application built with **Next.js 14**, **TypeScr
 
 
 ![Screenshot 2025-05-08 050826](https://github.com/user-attachments/assets/580494d4-9cf3-4434-b056-f7b146a146ff)
+![Screenshot 2025-05-08 050804](https://github.com/user-attachments/assets/cad97697-86f1-4293-8632-baadaeb71223)
+![Screenshot 2025-05-08 050748](https://github.com/user-attachments/assets/25d09e66-4729-419f-b752-c08f785cbe5e)
+![Screenshot 2025-05-08 050729](https://github.com/user-attachments/assets/282eed61-ea80-4ce1-a7be-849b5be48ad8)
+
+
+
