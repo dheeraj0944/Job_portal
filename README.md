@@ -33,16 +33,17 @@ A modern, full-stack Job Portal application built with **Next.js 14**, **TypeScr
    git clone https://github.com/dheeraj0944/Job_portal.git
    cd Job_portal
    
-2.Install dependencies:pnpm install
+  2.Install dependencies:npm install
 
-3.Configure environment variables:
+  3.Configure environment variables:
+    Create a .env.local file in the root directory and add the necessary environment variables:
+    
+   DATABASE_URL=your_database_connection_string
 
-Create a .env.local file in the root directory and add the necessary environment variables:
-DATABASE_URL=your_database_connection_string
-NEXTAUTH_SECRET=your_nextauth_secret
+   NEXTAUTH_SECRET=your_nextauth_secret
 
-4.Run the development server:
-pnpm dev
+ 4.Run the development server:
+    npm run dev
 
-5.Open http://localhost:3000 in your browser to see the application.
+ 5.Open http://localhost:3000 in your browser to see the application.
 
