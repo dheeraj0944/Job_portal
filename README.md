@@ -47,3 +47,5 @@ A modern, full-stack Job Portal application built with **Next.js 14**, **TypeScr
 
  5.Open http://localhost:3000 in your browser to see the application.
 
+
+![Screenshot 2025-05-08 050826](https://github.com/user-attachments/assets/580494d4-9cf3-4434-b056-f7b146a146ff)
