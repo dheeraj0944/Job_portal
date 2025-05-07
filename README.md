@@ -20,22 +20,6 @@ A modern, full-stack Job Portal application built with **Next.js 14**, **TypeScr
 - **API Routes**: Built-in API routes provided by Next.js
 - **Package Manager**: [pnpm](https://pnpm.io/)
 
-## 📁 Project Structure
-
-├── app/ # Next.js app directory
-├── components/ # Reusable UI components
-├── hooks/ # Custom React hooks
-├── lib/ # Utility functions and libraries
-├── public/ # Static assets
-├── styles/ # Global and component-specific styles
-├── middleware.ts # Middleware for request handling
-├── next.config.mjs # Next.js configuration
-├── tailwind.config.ts # Tailwind CSS configuration
-├── tsconfig.json # TypeScript configuration
-├── package.json # Project metadata and scripts
-├── pnpm-lock.yaml # Dependency lockfile for pnpm
-
-
 ## ⚙️ Getting Started
 
 ### Prerequisites
